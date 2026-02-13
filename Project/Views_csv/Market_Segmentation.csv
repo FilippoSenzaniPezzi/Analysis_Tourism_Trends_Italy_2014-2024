@@ -1,0 +1,108 @@
+"Year","Dimension_Type","Segment_Name","Arrivals","Nights"
+2014,Category,Big cities (with multidimensional tourism),26717877,66861951
+2014,Category,"Municipalities with a cultural, historical, artistic and landscape vocation",11144234,27322721
+2014,Category,"Municipalities with a cultural, historical, artistic and landscape vocation + other vocations",6654342,23437914
+2014,Category,Municipalities with a maritime vocation,13508606,73588273
+2014,Category,"Municipalities with a maritime vocation + a cultural, historical, artistic and landscape vocation",17533591,75316729
+2014,Category,Municipalities with a mountain vocation,3697150,15769441
+2014,Category,"Municipalities with a mountain vocation + a cultural, historical, artistic and landscape vocation",6276315,28480246
+2014,Category,Municipalities with lake tourism ,3333648,14699849
+2014,Category,Municipalities with thermal tourism,1288431,4886914
+2014,Category,Non-touristic municipalities,11165,43628
+2014,Category,Not classified,1843017,9764527
+2014,Category,Other tourist municipalities with two vocations,768632,3264819
+2014,Category,Tourist municipalities without a specific category,10365464,25345083
+2019,Category,Big cities (with multidimensional tourism),33625935,86106389
+2019,Category,"Municipalities with a cultural, historical, artistic and landscape vocation",14563502,33815005
+2019,Category,"Municipalities with a cultural, historical, artistic and landscape vocation + other vocations",8173507,26812667
+2019,Category,Municipalities with a maritime vocation,16921254,85312231
+2019,Category,"Municipalities with a maritime vocation + a cultural, historical, artistic and landscape vocation",22227506,87239213
+2019,Category,Municipalities with a mountain vocation,4931350,19589771
+2019,Category,"Municipalities with a mountain vocation + a cultural, historical, artistic and landscape vocation",8501632,35456343
+2019,Category,Municipalities with lake tourism ,4180740,17077079
+2019,Category,Municipalities with thermal tourism,1519959,5075656
+2019,Category,Not classified,106273,402463
+2019,Category,Other tourist municipalities with two vocations,914074,3399422
+2019,Category,Tourist municipalities without a specific category,12709937,29902662
+2024,Category,Big cities (with multidimensional tourism),35598229,100538104
+2024,Category,"Municipalities with a cultural, historical, artistic and landscape vocation",15534231,35774199
+2024,Category,"Municipalities with a cultural, historical, artistic and landscape vocation + other vocations",9035203,29319707
+2024,Category,Municipalities with a maritime vocation,18219923,87567076
+2024,Category,"Municipalities with a maritime vocation + a cultural, historical, artistic and landscape vocation",23589382,89782662
+2024,Category,Municipalities with a mountain vocation,5382505,20629076
+2024,Category,"Municipalities with a mountain vocation + a cultural, historical, artistic and landscape vocation",9608056,38631310
+2024,Category,Municipalities with lake tourism ,4728649,18602251
+2024,Category,Municipalities with thermal tourism,1537724,4601568
+2024,Category,Non-touristic municipalities,76493,195231
+2024,Category,Other tourist municipalities with two vocations,869273,3378834
+2024,Category,Tourist municipalities without a specific category,14277315,34771474
+2014,Brand,Chianti,195546,758745
+2014,Brand,Cilento,393664,2842987
+2014,Brand,Cinque Terre,158961,388194
+2014,Brand,Costa degli Dei,279498,2069109
+2014,Brand,Costiera amalfitana,627482,1994794
+2014,Brand,Costiera sorrentina e Capri,1131585,4113782
+2014,Brand,Gargano e Isole Tremiti,790444,4156824
+2014,Brand,Isole Eolie,143452,504718
+2014,Brand,Lago Maggiore,1012457,3429191
+2014,Brand,Lago di Como,727833,2082969
+2014,Brand,Lago di Garda,4524351,20887448
+2014,Brand,Langhe e Roero,249275,579815
+2014,Brand,Maremma toscana e laziale,1818036,10941441
+2014,Brand,Not branded,78660701,253852418
+2014,Brand,Not classified,1843017,9764527
+2014,Brand,Riviera dei fiori,746317,2831607
+2014,Brand,Riviera romagnola,5143754,25285323
+2014,Brand,Salento,1031576,4893273
+2014,Brand,Val Gardena,403811,2218466
+2014,Brand,Val Pusteria,1719927,8581532
+2014,Brand,Val di Fassa e Val di Fiemme,563312,2773013
+2014,Brand,Valle d'Itria,408163,1383247
+2014,Brand,Versilia,569310,2448672
+2019,Brand,Chianti,350550,1214538
+2019,Brand,Cilento,507328,3273377
+2019,Brand,Cinque Terre,247346,578083
+2019,Brand,Costa degli Dei,376891,2488781
+2019,Brand,Costiera amalfitana,705652,2109705
+2019,Brand,Costiera sorrentina e Capri,1516101,5230563
+2019,Brand,Gallura e Costa Smeralda,1137351,5869693
+2019,Brand,Gargano e Isole Tremiti,852826,4091402
+2019,Brand,Isole Eolie,140006,478907
+2019,Brand,Lago Maggiore,1235841,4013937
+2019,Brand,Lago di Como,1236373,3290383
+2019,Brand,Lago di Garda,5585915,23991222
+2019,Brand,Langhe e Roero,360870,754242
+2019,Brand,Maremma toscana e laziale,2225721,12112010
+2019,Brand,Not branded,98765177,302679695
+2019,Brand,Not classified,106273,402463
+2019,Brand,Riviera dei fiori,890660,3147069
+2019,Brand,Riviera romagnola,5963294,27329807
+2019,Brand,Salento,1309365,5656216
+2019,Brand,Val Gardena,496487,2544464
+2019,Brand,Val Pusteria,2238048,10396370
+2019,Brand,Val di Fassa e Val di Fiemme,922211,4237580
+2019,Brand,Valle d'Itria,566401,1728852
+2019,Brand,Versilia,638982,2569542
+2024,Brand,Chianti,373567,1157056
+2024,Brand,Cilento,424883,2093467
+2024,Brand,Cinque Terre,257055,644427
+2024,Brand,Costa degli Dei,414058,2363083
+2024,Brand,Costiera amalfitana,720624,2326772
+2024,Brand,Costiera sorrentina e Capri,1560891,5459618
+2024,Brand,Gallura e Costa Smeralda,1268466,6008292
+2024,Brand,Gargano e Isole Tremiti,884865,4124739
+2024,Brand,Isole Eolie,152462,483245
+2024,Brand,Lago Maggiore,1368459,4414091
+2024,Brand,Lago di Como,1488784,3749748
+2024,Brand,Lago di Garda,6391756,26541868
+2024,Brand,Langhe e Roero,419692,871865
+2024,Brand,Maremma toscana e laziale,2457162,12566827
+2024,Brand,Not branded,106068753,330574948
+2024,Brand,Riviera dei fiori,944379,3375280
+2024,Brand,Riviera romagnola,6012131,26390866
+2024,Brand,Salento,1653714,6955080
+2024,Brand,Val Gardena,619992,2957744
+2024,Brand,Val Pusteria,2500672,11465871
+2024,Brand,Val di Fassa e Val di Fiemme,1117067,4819847
+2024,Brand,Valle d'Itria,708241,2057993
+2024,Brand,Versilia,649310,2388765
