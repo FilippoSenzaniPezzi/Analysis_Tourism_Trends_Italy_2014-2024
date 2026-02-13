@@ -121,7 +121,7 @@ Rather than directly uploading the queries output tables on Tableau, I created d
 The first query focused on the yearly national trend of arrivals, nights spent, and average length of stay per arrival. How did Italy perform in general between 2014 and 2024? How has tourism market been affected by the pandemic?
 
 <p align="center">
-  <img src="Project/Images/National_Overview.png" width="500">
+  <img src="Project/Images/National_overview.png" width="500">
 </p>
 
 The graphs allow to clearly distinct 3 stages: before, during and after the hit of Covid-19. In the first phase, between 2014 and 2019, the market was expanding. Year-over-year growth rate was always positive, and arrivals increased from 103.14 millions in 2014 to 128.38 in 2019, that's an increment of almost 25% in 5 years. On the other side, the average length of stay decreased steadily, as a symptom of how tourism was changing towards more frequent but shorter travel experiences. 
